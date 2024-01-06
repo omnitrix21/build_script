@@ -1,5 +1,5 @@
 
-An easy script for building risingOS and xdCLO-android-11 :) , and here is how you can do it
+An easy script for building risingOS :) , and here is how you can do it
 
 Getting Started
 ---------------
@@ -14,12 +14,6 @@ Execute the script
 
 ```bash
 chmod +x "rising-sweet".sh && ./"rising-sweet".sh
-```
-
-# For xdroidCLO-Android-11
-
-```bash
-chmod +x "xd-sweet".sh && ./"xd-sweet".sh
 ```
 
 Done! now rom will compile 
