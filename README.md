@@ -16,4 +16,10 @@ Execute the script
 chmod +x "rising-sweet".sh && ./"rising-sweet".sh
 ```
 
+# For SuperiorExtended
+
+```bash
+chmod +x "sup-ex".sh && ./"sup-ex".sh
+```
+
 Done! now rom will compile 
